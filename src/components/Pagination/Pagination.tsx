@@ -1,5 +1,4 @@
 import React from 'react';
-import { Item } from '../../types';
 import { getNumbers } from '../../utils';
 import cn from 'classnames';
 
